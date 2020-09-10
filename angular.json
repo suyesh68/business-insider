@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "business-insider"
+    }
+  },
+  "defaultProject": "business-insider",
+  "cli": {
+    "analytics": "a4feab6d-1ea4-4ff1-b002-501274802e4e"
+  }
 }
